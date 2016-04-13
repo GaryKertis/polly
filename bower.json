@@ -1,0 +1,21 @@
+{
+    "name": "polly",
+    "homepage": "https://github.com/GaryKertis/polly",
+    "authors": [
+        "Gary Kertis <gary.kertis@gmail.com>"
+    ],
+    "dependencies": {
+        "trees": "git://github.com/GaryKertis/trees#polly",
+        "bootstrap": "3.3.6"
+    },
+    "description": "",
+    "main": "",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
