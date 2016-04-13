@@ -12,6 +12,7 @@
 
 		</div><!-- #main -->
 		<footer id="colophon" class="site-footer" role="contentinfo">
+			Follow Polly on <a href="https://www.facebook.com/polly.bresnick">Facebook</a>
 			<?php get_sidebar( 'main' ); ?>
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
